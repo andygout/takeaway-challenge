@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/andygout/takeaway-challenge.png)](https://travis-ci.org/andygout/takeaway-challenge) [![Coverage Status](https://coveralls.io/repos/andygout/takeaway-challenge/badge.png)](https://coveralls.io/r/andygout/takeaway-challenge) [![Coverage Status](https://coveralls.io/repos/andygout/takeaway-challenge/badge.svg?branch=master&service=github)](https://coveralls.io/github/andygout/takeaway-challenge?branch=master)
+[![Build Status](https://travis-ci.org/andygout/takeaway-challenge.png)](https://travis-ci.org/andygout/takeaway-challenge) [![Coverage Status](https://coveralls.io/repos/andygout/takeaway-challenge/badge.svg?branch=master&service=github)](https://coveralls.io/github/andygout/takeaway-challenge?branch=master)
 
 
 Takeaway Challenge
