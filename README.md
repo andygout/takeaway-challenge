@@ -8,7 +8,7 @@ Takeaway Challenge
 Brief:
 -------
 
-Create a takeaway system that notifies customer or order collection time with a text sent via Twilio.
+Create a takeaway system that notifies customer of order collection time with a text sent via Twilio.
 
 - Hints on functionality to implement:
   - Ensure you have a list of dishes with prices.
