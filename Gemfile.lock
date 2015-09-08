@@ -91,4 +91,5 @@ DEPENDENCIES
   rspec
   rubocop
   rubocop-rspec
+  simplecov
   twilio-ruby
