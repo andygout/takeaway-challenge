@@ -45,13 +45,14 @@ SimpleCov.start
 
 - Run RSpec tests (`$ rspec`) and see coverage report displayed following test report: `Coverage report generated for RSpec to /Users/andygout/Documents/projects/takeaway-challenge/coverage. 109 / 110 LOC (99.09%) covered.`
 - Run `$ open coverage/index.html` to open browser displaying coverage report for files in directory
-- N.B. Does not seem to work when Coveralls is also included in `spec_helper.rb`
+- Ensure `/coverage` is added to `.gitignore` file so as to prevent each commit's updates being included in changes
 
 
 Testing:
 -------
 
-- Run RSpec tests: `$ rspec`
+- Run RSpec from root directory: `$ rspec`
+- Open coverage report in browser: `$ open coverage/index.html`
 
 
 User stories:
